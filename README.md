@@ -1,4 +1,3 @@
-read me base:
 
 # 🏥 Hospital 
 
